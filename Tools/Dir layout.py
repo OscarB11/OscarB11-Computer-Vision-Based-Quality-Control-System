@@ -10,8 +10,11 @@ def display_directory_layout(folder_path):
 # Specify the path to the folder you want to inspect
 folder_path = "boo12/pcb-defect-dataset"
 folder_path2 = "boo12\PCB Defects.v1i.tensorflow"
+folder_path3 = "boo12\PCB_Dataset.v3i.voc"
 
 # Call the function with the specified folder_path
 display_directory_layout(folder_path)
 print("\n\n")
 display_directory_layout(folder_path2)
+print("\n\n")
+display_directory_layout(folder_path3)
