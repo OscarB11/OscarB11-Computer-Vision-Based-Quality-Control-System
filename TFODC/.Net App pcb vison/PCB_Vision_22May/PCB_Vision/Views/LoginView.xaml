@@ -1,0 +1,191 @@
+﻿<Window x:Class="PCB_Vision.Views.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PCB_Vision.Views"
+        mc:Ignorable="d"  Background="Transparent" Closed="Window_Closed"
+        Title="" WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        Width="900" Height="750">
+    <Window.Resources>
+
+        <Style x:Key="TitleTextStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="42"/>
+            <Setter Property="FontWeight" Value="Light"/>
+            <Setter Property="Foreground" Value="{StaticResource MainForeground}"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="LabelStyle">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="{StaticResource MainForeground}"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="CopyrightTextStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="Foreground"
+             Value="#A19FAD"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="SFProText"/>
+            <Setter Property="FontWeight" Value="Regular"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+
+        <Style x:Key="HeaderTextStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="Foreground"
+             Value="{DynamicResource WhiteColor}"/>
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="ButtonStyle"
+        TargetType="Button">
+            <Setter Property="FontSize"
+             Value="16" />
+            <Setter Property="Foreground"
+             Value="{DynamicResource MainForeground}" />
+            <Setter Property="FontWeight"
+             Value="SemiBold" />
+            <Setter Property="Background"
+             Value="{DynamicResource Button.Background}" />
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border Background="{TemplateBinding Background}"
+                         CornerRadius="7"
+                         BorderThickness="1">
+                                <Border.Effect>
+                                    <DropShadowEffect Color="#009CB6E2" BlurRadius="70"/>
+                                </Border.Effect>
+                                <TextBlock Text="{TemplateBinding Content}"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
+    <Grid Background="{StaticResource Screen.Background}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Image Source="/PCB_Vision;component/Resources/Images/Group 37.png" Stretch="Fill" Height="120" VerticalAlignment="Top"/>
+
+
+
+        <Image Source="/PCB_Vision;component/Resources/Images/logo.png"
+               Height="110" Stretch="Uniform"
+               Width="110" VerticalAlignment="Top" 
+           Grid.Row="0" Margin="0,85,0,0"/>
+
+        <Grid x:Name="gridSignIn" Grid.Row="1" Background="Transparent" Visibility="{Binding LogInVisibility,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="48"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Sign in"
+       Grid.Row="1"
+       HorizontalAlignment="Center"
+       Style="{StaticResource TitleTextStyle}"/>
+                <Grid Grid.Row="3" Background="Transparent">
+                    <Grid HorizontalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="0"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <TextBox Style="{StaticResource TextBoxStyle}" Width="412" Tag="Email"
+                                 Height="55" Text="{Binding LogUserObj.Email,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="2" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Password"
+                                    Height="55" Text="{Binding LogUserObj.Password,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock Grid.Row="4" Text="Forget Password" Foreground="White" Margin="0,5"
+                       FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+                        <Button Grid.Row="5" x:Name="btnLogin" Content="LOGIN" Style="{StaticResource ButtonStyle}"
+                                Height="55" Command="{Binding LoginCommand}"/>
+                        <Button Grid.Row="7" Content="Don't have an account? Sign up" Foreground="White"
+                                Background="Transparent"
+                                BorderThickness="0" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10"
+                                Command="{Binding RegisterCommand}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+
+        <Grid x:Name="gridSignUp" Grid.Row="1" Background="Transparent" Visibility="{Binding SignInVisibility,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="48"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Sign Up"
+    Grid.Row="1"
+    HorizontalAlignment="Center"
+    Style="{StaticResource TitleTextStyle}"/>
+                <Grid Grid.Row="3" Background="Transparent">
+                    <Grid HorizontalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition/>
+                            <RowDefinition  Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <TextBox Grid.Row="0" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Company Name"
+                                    Height="55" Text="{Binding RegisterUserObj.CompanyName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="2" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Company's Industry"
+                                    Height="55" Text="{Binding RegisterUserObj.CompanyIndustry,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="4" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Fullname"
+                                    Height="55" Text="{Binding RegisterUserObj.FullName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="6" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Email"
+                              Height="55" Text="{Binding RegisterUserObj.Email,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="8" Style="{StaticResource TextBoxStyle}" Width="412" Tag="Passoword"
+                                 Height="55" Text="{Binding RegisterUserObj.Password,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" TextChanged="TextBox_TextChanged"/>
+                        <Button Grid.Row="10"  Content="SIGN UP" Style="{StaticResource ButtonStyle}"
+                             Height="55" Command="{Binding SignupCommand}"/>
+                        <Button Grid.Row="11" Content="Already account? Log In" Foreground="White" Background="Transparent"
+                                BorderThickness="0"
+                                FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10"
+                                Command="{Binding BackToLoginCommand}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+
+        <TextBlock Grid.Row="3" VerticalAlignment="Bottom" HorizontalAlignment="Center"
+               Style="{StaticResource TitleTextStyle}"
+               FontSize="14" FontWeight="Medium" Margin="0,0,0,25">By logging in you agree to our <Underline> privacy policy </Underline> &amp; <Underline> terms of services</Underline></TextBlock>
+
+        <Image Source="/PCB_Vision;component/Resources/Images/BottomLayer.png" Grid.Row="3" VerticalAlignment="Bottom"
+               Stretch="Fill"/>
+    </Grid>
+</Window>

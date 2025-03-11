@@ -1,0 +1,314 @@
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.pdb
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\App.g.cs
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\App.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.baml
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.CopyComplete
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.exe
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.pdb
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+E:\fiverr\latest wpf\model\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\App.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\App.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.Up2Date
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.pdb
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.exe
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\PCB_Vision.pdb
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Buffers.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Memory.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\System.ValueTuple.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\App.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\App.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\DashboardView.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\LoginView.baml
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.csproj.Up2Date
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.exe
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\PCB_Vision.pdb
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\InputWindow.g.cs
+C:\Users\SW Team_Nilesh\Downloads\PCB_Vision - Copy\PCB_Vision - Copy\PCB_Vision\PCB_Vision\obj\Debug\Views\InputWindow.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.pdb
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\App.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\App.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.baml
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.CopyComplete
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.exe
+C:\Users\Hammad Younas\Desktop\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\App.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\App.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.Up2Date
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe.config
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\PCB_Vision.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Buffers.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Data.SqlClient.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Drawing.Common.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Memory.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\System.ValueTuple.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.AssemblyReference.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ColorResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\ComboBoxStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Resources\DataGridStyleResources.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\App.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_Content.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision_MarkupCompile.lref
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\App.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\DashboardView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\InputWindow.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\Views\LoginView.baml
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.g.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.Properties.Resources.resources
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.GenerateResource.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.CoreCompileInputs.cache
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.csproj.Up2Date
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.exe
+C:\Users\besto\Documents\Local vscode\CSProjectcode\boo12\TFODC\Net app v2\PCB_Vision\PCB_Vision_22May\PCB_Vision_22May\PCB_Vision\obj\Debug\PCB_Vision.pdb

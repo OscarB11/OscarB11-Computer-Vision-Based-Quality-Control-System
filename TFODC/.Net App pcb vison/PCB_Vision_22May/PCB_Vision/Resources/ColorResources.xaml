@@ -1,0 +1,42 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="MainForeground"
+                  Color="#ffffff" />
+
+    <SolidColorBrush x:Key="OrangeCircleColor" Color="#E96658"/>
+    <SolidColorBrush x:Key="YellowCircleColor" Color="#EAC74F"/>
+    <SolidColorBrush x:Key="GreenCircleColor" Color="#71C644"/>
+
+    <SolidColorBrush x:Key="Screen.Background" Color="#1C1F27"/>
+
+    <SolidColorBrush x:Key="MainThemeControlBackgroundColor" Color="#0FFFFFFF" />
+    <SolidColorBrush x:Key="MainThemeControlBorderBrush" Color="#2DFFFFFF" />
+
+    <SolidColorBrush x:Key="Button.Background" Color="#FF5285DC" />
+
+    <LinearGradientBrush x:Key="TaskWindow.Background" EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FF1C1F27"/>
+        <GradientStop Color="#FF303A40" Offset="1"/>
+    </LinearGradientBrush>
+
+    <SolidColorBrush x:Key="MainThemeArrowColor" Color="#FFFFFF" Opacity="0.42" />
+    <SolidColorBrush x:Key="MainThemeForegroundColor" Color="#FF898C8F" />
+    <SolidColorBrush x:Key="MainThemeSectionColor" Color="#FF595F7F"/>
+    <SolidColorBrush x:Key="MainThemeBlueColor" Color="#5285DC"/>
+    <SolidColorBrush x:Key="MainThemeRegionColor" Color="#171920"/>
+    <SolidColorBrush x:Key="MainThemeAnotherRegionColor" Color="#121318"/>
+    <SolidColorBrush x:Key="MainThemeItemColor" Color="#07F7F8F9"/>
+    <SolidColorBrush x:Key="MainThemeItemBorderColor" Color="#11FFFFFF"/>
+    <SolidColorBrush x:Key="CheckBox.Border" Color="#FFC1C1C1"/>
+    <SolidColorBrush x:Key="CheckBox.Foreground" Color="#FF000000"/>
+    <SolidColorBrush x:Key="TabItem.Selected" Color="#4A90E2"/>
+    <SolidColorBrush x:Key="MainthemeBlackColor" Color="#121419"/>
+    <SolidColorBrush x:Key="WhiteColor" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="TextForeground" Color="#898A8C"/>
+    <SolidColorBrush x:Key="ConnectTextForeground" Color="#3AE34D"/>
+    <SolidColorBrush x:Key="GrayColor" Color="#444444"/>
+    <SolidColorBrush x:Key="Settings.Section" Color="#1F222B"/>
+
+
+</ResourceDictionary>
